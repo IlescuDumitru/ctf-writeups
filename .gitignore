@@ -1,0 +1,22 @@
+# Temporary and system files
+*.swp
+*~
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Challenge files: link them instead of uploading
+*.pcap
+*.pcapng
+*.zip
+*.tar.gz
+*.elf
+*.exe
+challenge-files/
+
+# Never commit secrets
+.env
+*.key
