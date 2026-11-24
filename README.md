@@ -5,14 +5,14 @@ I am a Computer Engineering student at Sapienza University of Rome, and this rep
 my path into cybersecurity: for every challenge I explain the problem, my reasoning (including dead ends),
 the solution and what I learned.
 
-- PicoCTF profile: https://play.picoctf.org/users/YOUR-USERNAME
-- Contact: YOUR-EMAIL or LinkedIn
+- Challenges solved on CyLab Academy (picoCTF), username: IlescuDumitru
+- Contact: dumitruilescu8@gmail.com
 
 ## Writeups
 
 | # | Challenge | Platform | Category | Difficulty | Key concepts |
 |---|-----------|----------|----------|------------|--------------|
-| 1 | [Obedient Cat](general-skills/picoctf-obedient-cat.md) | PicoCTF | General Skills | Easy | Linux basics, `cat` |
+| 1 | [Obedient Cat](general-skills/picoctf-obedient-cat.md) |PicoCTF | General Skills | Easy | Linux basics, `cat` |
 
 ## Repository structure
 

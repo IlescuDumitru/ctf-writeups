@@ -1,8 +1,8 @@
 # CHALLENGE NAME
 
-| Platform | Category | Difficulty / points | Date solved |
+| Platform | Category | Difficulty | Date solved |
 |----------|----------|---------------------|-------------|
-| PicoCTF (picoGym) | Web Exploitation | Easy / 100 pts | 2026-11-30 |
+| CyLab Academy (picoCTF) | Web Exploitation | Easy | 2026-11-30 |
 
 ## Challenge
 
@@ -28,7 +28,7 @@ curl -s http://CHALLENGE-URL/ | grep -i flag
 
 Or the script I wrote (`solve.py` in this folder), with comments.
 
-Flag: `picoCTF{...}` (redacted)
+Flag: `academy{...}` (redacted)
 
 ## What I learned
 
