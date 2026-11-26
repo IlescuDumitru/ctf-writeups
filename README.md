@@ -13,8 +13,9 @@ the solution and what I learned.
 | # | Challenge | Platform | Category | Difficulty | Key concepts |
 |---|-----------|----------|----------|------------|--------------|
 | 1 | [Obedient Cat](general-skills/obedient-cat.md) | picoCTF (CyLab Academy) | General Skills | Easy | Linux basics, `cat` |
-| 2 | [Python wrangling](general-skills/python-wrangling.md) | picoCTF (CyLab Academy) | General skills | Medium | Python scripts |
+| 2 | [Python wrangling](general-skills/python-wrangling.md) | picoCTF (CyLab Academy) | General Skills | Medium | Python scripts |
 | 3 | [Mod 26](cryptography/mod-26.md) | picoCTF (CyLab Academy) | Cryptography | Easy | Caesar cipher and ROT13 |
+| 4 | [Insp3ct0r](web-exploitation/Insp3ct0r.md) | picoCTF (CyLab Academy) | Web Exploitation | Easy | Structure of a web page |
 
 ## Repository structure
 
