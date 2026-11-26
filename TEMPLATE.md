@@ -2,7 +2,7 @@
 
 | Platform | Category | Difficulty | Date solved |
 |----------|----------|---------------------|-------------|
-| CyLab Academy (picoCTF) | Web Exploitation | Easy | 2026-11-30 |
+| picoCTF (CyLab Academy) | Web Exploitation | Easy | 2026-11-30 |
 
 ## Challenge
 

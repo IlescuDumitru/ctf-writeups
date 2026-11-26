@@ -2,7 +2,7 @@
 
 | Platform | Category | Difficulty | Date solved |
 |----------|----------|---------------------|-------------|
-| CyLab Academy (picoCTF) | General-skills | medium | 2026-11-25 |
+| picoCTF (CyLab Academy) | General-skills | medium | 2026-11-25 |
 
 ## Challenge
 

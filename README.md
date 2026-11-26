@@ -12,7 +12,9 @@ the solution and what I learned.
 
 | # | Challenge | Platform | Category | Difficulty | Key concepts |
 |---|-----------|----------|----------|------------|--------------|
-| 1 | [Obedient Cat](general-skills/picoctf-obedient-cat.md) |PicoCTF | General Skills | Easy | Linux basics, `cat` |
+| 1 | [Obedient Cat](general-skills/obedient-cat.md) | picoCTF (CyLab Academy) | General Skills | Easy | Linux basics, `cat` |
+| 2 | [Python wrangling](general-skills/python-wrangling.md) | picoCTF (CyLab Academy) | General skills | Medium | Python scripts |
+| 3 | [Mod 26](cryptography/mod-26.md) | picoCTF (CyLab Academy) | Cryptography | Easy | Caesar cipher and ROT13 |
 
 ## Repository structure
 
