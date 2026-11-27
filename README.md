@@ -16,6 +16,7 @@ the solution and what I learned.
 | 2 | [Python wrangling](general-skills/python-wrangling.md) | picoCTF (CyLab Academy) | General Skills | Medium | Python scripts |
 | 3 | [Mod 26](cryptography/mod-26.md) | picoCTF (CyLab Academy) | Cryptography | Easy | Caesar cipher and ROT13 |
 | 4 | [Insp3ct0r](web-exploitation/Insp3ct0r.md) | picoCTF (CyLab Academy) | Web Exploitation | Easy | Structure of a web page |
+| 5 | [Information](forensics/information.md) | picoCTF (CyLab Academy) | Forensics | Easy | Metadata, exiftool and base64 |
 
 ## Repository structure
 
